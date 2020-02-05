@@ -14,7 +14,8 @@ https://github.com/sorrycc/awesome-javascript
 https://github.com/felipefialho/piano
 https://github.com/Rocketseat/awesome
 https://github.com/brasil-js
-## >NODE:
+
+## NODE:
 https://github.com/goldbergyoni/nodebestpractice
 https://github.com/woliveiras/nodejs-in-brazil
 
