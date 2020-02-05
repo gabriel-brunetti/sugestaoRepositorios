@@ -52,6 +52,7 @@ Lista com repositórios para você aprender JS/HTML/CSS e saber sobre vagas e o 
 - https://github.com/chaordic/frontend-intern-challenge;<br>
 - https://github.com/original-io/join-us;<br>
 - https://github.com/amarofashion/front-end-challenge;<br>
+- https://github.com/felipe-ssilva/challenge;<br>
 
 ## VÍDEOS PT-BR
 - https://github.com/carolcodes/videos-pt.br-tecnologia;<br>
