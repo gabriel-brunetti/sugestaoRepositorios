@@ -4,57 +4,55 @@
 Lista com repositórios para você aprender JS/HTML/CSS e saber sobre vagas e o mundo da programação.
 
 ## GITHUB:
-https://github.com/jlord/git-it-electron
-
+https://github.com/jlord/git-it-electron<br>
 
 ## JAVASCRIPT:
-https://github.com/cezaraugusto/You-Dont-Know-JS;
-https://github.com/workshopper/javascripting;
-https://github.com/sorrycc/awesome-javascript
-https://github.com/felipefialho/piano
-https://github.com/Rocketseat/awesome
-https://github.com/brasil-js
+https://github.com/cezaraugusto/You-Dont-Know-JS;<br>
+https://github.com/workshopper/javascripting;<br>
+https://github.com/sorrycc/awesome-javascript<br>
+https://github.com/felipefialho/piano<br>
+https://github.com/Rocketseat/awesome<br>
+https://github.com/brasil-js<br>
 
 ## NODE:
-https://github.com/goldbergyoni/nodebestpractice
-https://github.com/woliveiras/nodejs-in-brazil
-
+https://github.com/goldbergyoni/nodebestpractice<br>
+https://github.com/woliveiras/nodejs-in-brazil<br>
 
 ## FRONT-END:
-https://github.com/felipefialho/css-components
-https://github.com/FrontendMasters/front-end-handbook-2019;
-https://github.com/AllThingsSmitty/css-protips;
-https://github.com/nas5w/100-days-of-code-frontend;
-https://github.com/AllThingsSmitty/must-watch-css;
-https://github.com/andrew--r/frontend-case-studies;
-https://github.com/ryanoasis/nerd-fonts;
-https://github.com/miniMAC/magic;
+https://github.com/felipefialho/css-components<br>
+https://github.com/FrontendMasters/front-end-handbook-2019;<br>
+https://github.com/AllThingsSmitty/css-protips;<br>
+https://github.com/nas5w/100-days-of-code-frontend;<br>
+https://github.com/AllThingsSmitty/must-watch-css;<br>
+https://github.com/andrew--r/frontend-case-studies;<br>
+https://github.com/ryanoasis/nerd-fonts;<br>
+https://github.com/miniMAC/magic;<br>
 
 ## BACK-END:
-https://github.com/backend-br/desafios;
+https://github.com/backend-br/desafios;<br>
 
 
 ## BIBLIOTECAS:
-https://github.com/charlax/professional-programming;
+https://github.com/charlax/professional-programming;<br>
 
 ## ROADMAPS:
-https://github.com/orsanawwad/awesome-roadmaps;
-https://github.com/kamranahmedse/developer-roadmap;
+https://github.com/orsanawwad/awesome-roadmaps;<br>
+https://github.com/kamranahmedse/developer-roadmap;<br>
 
-## VAGAS:
-https://github.com/poteto/hiring-without-whiteboards;
-https://github.com/frontendbr/vagas;
-https://github.com/backend-br/vagas;
-https://github.com/lerrua/remote-jobs-brazil;
-https://github.com/DyegoCosta/trabalhando-remoto;
-https://github.com/cbovis/awesome-digital-nomads;
-https://github.com/somarmeteorologia/challenge;
-https://github.com/chaordic/frontend-intern-challenge;
-https://github.com/original-io/join-us;
-https://github.com/amarofashion/front-end-challenge;
+## VAGAS:<br>
+https://github.com/poteto/hiring-without-whiteboards;<br>
+https://github.com/frontendbr/vagas;<br>
+https://github.com/backend-br/vagas;<br>
+https://github.com/lerrua/remote-jobs-brazil;<br>
+https://github.com/DyegoCosta/trabalhando-remoto;<br>
+https://github.com/cbovis/awesome-digital-nomads;<br>
+https://github.com/somarmeteorologia/challenge;<br>
+https://github.com/chaordic/frontend-intern-challenge;<br>
+https://github.com/original-io/join-us;<br>
+https://github.com/amarofashion/front-end-challenge;<br>
 
 ## VÍDEOS PT-BR
-https://github.com/carolcodes/videos-pt.br-tecnologia;
+https://github.com/carolcodes/videos-pt.br-tecnologia;<br>
 
 
 
