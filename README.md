@@ -29,6 +29,7 @@ Lista com repositórios para você aprender JS/HTML/CSS e saber sobre vagas e o 
 - https://github.com/andrew--r/frontend-case-studies;<br>
 - https://github.com/ryanoasis/nerd-fonts;<br>
 - https://github.com/miniMAC/magic;<br>
+- https://github.com/felipefialho/frontend-feed;<br>
 
 ## BACK-END:
 - https://github.com/backend-br/desafios;<br>
