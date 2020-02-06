@@ -20,6 +20,9 @@ Lista com repositórios para você aprender JS/HTML/CSS e saber sobre vagas e o 
 - https://github.com/goldbergyoni/nodebestpractice<br>
 - https://github.com/woliveiras/nodejs-in-brazil<br>
 
+## REACT:
+- https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/<br>
+
 ## FRONT-END:
 - https://github.com/felipefialho/css-components<br>
 - https://github.com/FrontendMasters/front-end-handbook-2019;<br>
