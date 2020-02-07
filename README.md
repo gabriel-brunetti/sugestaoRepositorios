@@ -2,7 +2,8 @@
 
 # REPOSITÓRIOS SHOWS
 
-Lista com repositórios para você aprender JS/HTML/CSS e saber sobre vagas e o mundo da programação.
+Lista com repositórios para você aprender JS/HTML/CSS e saber sobre vagas e o mundo da programação.<br>
+Sugestões são bem vindas!
 
 ## GITHUB:
   * ### GUIAS:
