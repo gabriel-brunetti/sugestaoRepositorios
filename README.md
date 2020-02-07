@@ -9,6 +9,7 @@ Sugestões são bem vindas!
   * ### GUIAS:
     * https://github.com/jlord/git-it-electron<br>
     * https://learngitbranching.js.org/<br>
+    * https://github.com/praqma-training/git-katas<br>
 
 ## JAVASCRIPT:
   * ### GUIAS
