@@ -40,6 +40,7 @@ Sugestões são bem vindas!
     * https://github.com/ryanoasis/nerd-fonts;<br>
     * https://github.com/miniMAC/magic;<br>
     * https://github.com/felipefialho/frontend-feed;<br>
+    * https://github.com/tonsky/FiraCode;<br>
 
 ## BACK-END:
   * ### EXERCICIOS:
@@ -47,15 +48,21 @@ Sugestões são bem vindas!
     * https://www.codewars.com/;<br>
     * https://www.hackerrank.com/<br>
     * https://exercism.io/<br>
+    * https://github.com/CollabCodeTech/backend-challenges<br>
 
 ## PROGRAMAÇÃO
   * ### GUIAS:
     * https://github.com/charlax/professional-programming;<br>
     * https://github.com/carolcodes/videos-pt.br-tecnologia;<br>
+    * https://github.com/kamranahmedse/design-patterns-for-humans (apesar do nome é sobre lógica de programação; é bom saber o conceito de classes) <br>
+    * https://github.com/sindresorhus/awesome;<br>
 
   * ### ROADMAPS:
     * https://github.com/orsanawwad/awesome-roadmaps;<br>
     * https://github.com/kamranahmedse/developer-roadmap;<br>
+    
+  * ### TREINOS:
+    * https://github.com/tastejs/awesome-app-ideas;<br>
 
 ## VAGAS:<br>
   * ### PRESENCIAL
