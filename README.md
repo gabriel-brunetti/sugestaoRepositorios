@@ -40,7 +40,7 @@ Lista com repositórios para você aprender JS/HTML/CSS e saber sobre vagas e o 
     * https://github.com/felipefialho/frontend-feed;<br>
 
 ## BACK-END:
-  * EXERCICIOS:
+  * ### EXERCICIOS:
     * https://github.com/backend-br/desafios;<br>
     * https://www.codewars.com/;<br>
 
