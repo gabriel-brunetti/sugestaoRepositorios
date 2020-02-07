@@ -5,8 +5,9 @@
 Lista com repositórios para você aprender JS/HTML/CSS e saber sobre vagas e o mundo da programação.
 
 ## GITHUB:
- - https://github.com/jlord/git-it-electron<br>
- - https://learngitbranching.js.org/<br>
+  * ### GUIAS:
+    * https://github.com/jlord/git-it-electron<br>
+    * https://learngitbranching.js.org/<br>
 
 ## JAVASCRIPT:
   * ### GUIAS
