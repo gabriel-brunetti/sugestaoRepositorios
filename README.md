@@ -44,6 +44,7 @@ Sugestões são bem vindas!
   * ### EXERCICIOS:
     * https://github.com/backend-br/desafios;<br>
     * https://www.codewars.com/;<br>
+    * https://www.hackerrank.com/<br>
 
 ## PROGRAMAÇÃO
   * ### GUIAS:
